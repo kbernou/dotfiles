@@ -1,3 +1,5 @@
 alias ll='ls -l'
+alias la='ls -a'
 alias shutdown='sudo systemctl shutdown'
 alias reboot='sudo systemctl reboot'
+alias cls='clear'
