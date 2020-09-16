@@ -1,3 +1,4 @@
+# applicable to all machines and uses
 alias ll='ls -l'
 alias la='ls -a'
 alias shutdown='sudo systemctl shutdown'
