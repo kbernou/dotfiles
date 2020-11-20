@@ -9,6 +9,8 @@ alias shutdown='sudo systemctl shutdown'
 alias reboot='sudo systemctl reboot'
 alias cls='clear'
 
+alias workff='firefox --new-instance -P work'
+
 # docker related
 alias docker='sudo docker'
 alias dkr='sudo docker'
