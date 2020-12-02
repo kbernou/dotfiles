@@ -5,6 +5,9 @@ alias lt='ls --human-readable --size -1 -S --classify'
 alias left='ls -t -1'
 alias count='find . -type f | wc -l'
 
+# Arch and family
+alias pacup='sudo pacman -Syu'
+
 alias shutdown='sudo systemctl shutdown'
 alias reboot='sudo systemctl reboot'
 alias cls='clear'
