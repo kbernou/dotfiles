@@ -189,5 +189,5 @@ bindsym XF86AudioPlay exec playerctl play-pause
 bindsym XF86AudioNext exec playerctl next
 bindsym XF86AudioPrev exec playerctl previous
 
-# autostart apps
-exec firefox
+# flameshot a la greenshot
+bindsym Print exec "flameshot gui"
