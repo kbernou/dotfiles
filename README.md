@@ -1,2 +1,2 @@
-# linux-resources
-Scripts and aliases I've found useful
+# dotfiles
+Scripts, aliases, and settings I've found useful and like.
