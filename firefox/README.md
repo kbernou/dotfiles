@@ -17,7 +17,7 @@ Outlines how to remove the default tabs in Firefox to use the side tree tabs ins
     4. Create "userChrome.css" in the `chrome` directory
 
 2. Put CSS into `userChrome.css`:
-    1. Enter "#TabsToolbar { visibility: collapse !important; }" into the file to remove the tab bar
+    1. Enter `#TabsToolbar { visibility: collapse !important; }` into the file to remove the tab bar
 
 3. Set Firefox to look for `userChrome.css` at startup
     1. Enter `about:config` into address bar
