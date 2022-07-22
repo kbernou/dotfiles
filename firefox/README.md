@@ -2,8 +2,8 @@
 Outlines how to remove the default tabs in Firefox to use the side tree tabs instead, as well as force the browser to request dark colour scheme.
 
 ## Instructions
-* Tree tab extension: https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab
-* Removing tab bar reference: https://www.userchrome.org/how-create-userchrome-css.html
+* [Sidebery](https://addons.mozilla.org/en-CA/firefox/addon/sidebery/) extension for nice tabs on the side
+* [Removing tab bar reference](https://www.userchrome.org/how-create-userchrome-css.html)
 
 ### Make Firefox always request dark theme
 1. Set `layout.css.prefers-color-scheme.content-override` to 0 in `about:config`    
