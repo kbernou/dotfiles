@@ -22,6 +22,11 @@ Outlines how to remove the default tabs in Firefox to use the side tree tabs ins
     2. In the search box, type "userprof". If nothing shows up, you're done.
     3. If something shows up, set `toolkit.legacyUserProfileCustomizations.stylesheets` to `true`
     4. Change takes effect when the browser is relaunched
+  
+### Remove the revamped sidebar 
+1. Type `about:config` into address bar
+2. Enter `sidebar.revamp` into the search
+3. Set it to `false`
 
 
 
