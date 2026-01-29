@@ -1,0 +1,6 @@
+youtube.com##.ytp-fullscreen-grid-hover-overlay
+youtube.com##.ytp-fullscreen-grid-hover-overlay-chevron
+youtube.com##.ytp-fullscreen-grid-stills-container
+youtube.com##.ytp-button.ytp-fullscreen-grid-expand-button
+youtube.com##.ytp-fullscreen-grid-expand-button ytp-button
+youtube.com##.ytp-fullscreen-grid
